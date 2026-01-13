@@ -1,1 +1,2 @@
 # Diwali-Sales-Analysis-Python-
+A data analysis project that explores customer purchasing behavior during the Diwali season using Python. The project includes visualizations for sales by gender, age group, zone, and product categories to identify high-revenue segments and top-performing products. Built using Pandas and Matplotlib to generate actionable business insights for marketing strategy, inventory optimization, and customer targeting.
